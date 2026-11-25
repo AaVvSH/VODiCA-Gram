@@ -1,6 +1,7 @@
+
 {
-  "versionName": "2.10",
-  "updateTitle": "🛠️ Update VOTelegram ios V1.10 🛠️",
-  "updateMessage": "تحديث جديد لـ VO Gram",
+  "versionName": "1.10",
+  "updateTitle": "🚀 New Update Available!",
+  "updateMessage": "✨ VO Gram V1.10 is here! Enjoy the latest improvements, new features, and a smoother experience. Update now and discover what's new! 💚",
   "apkUrl": "https://t.me/VO_SH"
 }
