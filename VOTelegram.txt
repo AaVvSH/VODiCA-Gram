@@ -1,6 +1,6 @@
 {
   "versionName": "2.10",
-  "updateTitle": "🛠️ Update Available V1.10 🛠️",
-  "updateMessage": "Update Now New CMWhatsApp Plus Version Enjoy Best Experience.",
+  "updateTitle": "🛠️ Update VOTelegram ios V1.10 🛠️",
+  "updateMessage": "تحديث جديد لـ VO Gram",
   "apkUrl": "https://t.me/VO_SH"
 }
